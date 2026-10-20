@@ -15,6 +15,8 @@ SEARCHES = [
     "Norway gas outage",
     "LNG Europe",
     "German wind power",
+    "Netherlands electricity prices",
+    "Dutch power market TenneT",
 ]
 NEWS_DAYS_BACK = 2           # only keep articles from the last 2 days
 
